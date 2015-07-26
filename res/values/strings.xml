@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewWithCheckbox</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="title">
+        <item >Aditya</item>
+        <item >Aashish</item>
+        <item >Prakher</item>
+        <item >Tushar</item>
+        <item >Jockey</item>
+        <item >Elon</item>
+        <item >Larry</item>
+        <item >Zoo</item>
+        <item >steve</item>
+        <item >lopez</item>
+        
+    </string-array>
+    
+    <string-array name="checkbox">
+        <item >checkbox1</item>
+        <item >checkbox2</item>
+        <item >checkbox3</item>
+        <item >checkbox4</item>
+        <item >checkbox5</item>
+        <item >checkbox6</item>
+        <item >checkbox7</item>
+        <item >checkbox8</item>
+        <item >checkbox9</item>
+        <item >checkbox10</item>
+        
+    </string-array>
+    
+</resources>
